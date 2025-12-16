@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Bucksy Custom Colors -->
+    <color name="background_primary">#F6F1DE</color>
+    <color name="background_secondary">#8AB2A6</color>
+    <color name="accent_primary">#ACD3A8</color>
+    <color name="accent_secondary">#3E3F5B</color>
+
+    <!-- Additional Shades -->
+    <color name="accent_primary_light">#ACD3A8</color>
+    <color name="accent_secondary_light">#8AB2A6</color>
+    <color name="background_secondary_light">#F6F1DE</color>
+    <color name="text_primary">#3E3F5B</color>
+    <color name="text_secondary">#8AB2A6</color>
+    <color name="error_color">#FF5252</color>
+</resources>
